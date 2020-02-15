@@ -6,6 +6,6 @@
     <title>Learning PHP</title>
 </head>
 <body>
-    <h1>AAKRIT SUBEDI</h1>
+    <h1>RajBir Oli</h1>
 </body>
 </html>
